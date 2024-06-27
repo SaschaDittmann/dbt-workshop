@@ -176,3 +176,4 @@ logs/*.log
 *.db
 *.wal
 .user.yml
+duckdb
