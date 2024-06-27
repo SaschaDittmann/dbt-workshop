@@ -8,6 +8,11 @@ To create and activate a virtual environment use the following commands:
 - python -m venv .venv
 - source .venv/bin/activate
 
+## Install dependencies
+
+Please use the following commands to install the project dependencies:
+- pip install -r requirements.txt
+
 ## Using the starter project
 
 Try running the following commands:
