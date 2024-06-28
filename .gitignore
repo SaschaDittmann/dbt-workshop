@@ -166,6 +166,7 @@ target/
 target-base/
 dbt_packages/
 logs/*.log
+package-lock.yml
 
 # misc
 .env
